@@ -4,3 +4,9 @@ if x in lit:
 	print("Alphabet")
 else:
 	print("No")
+	
+	
+	
+	
+	
+	
