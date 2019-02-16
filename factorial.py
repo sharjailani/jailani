@@ -4,3 +4,7 @@ while num>0:
 	n=n*num
 	num=num-1
 print (n)
+
+
+
+
