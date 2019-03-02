@@ -1,5 +1,5 @@
-user_number  = input()
-if( user_number.isdigit()):
+string = input()
+if( string.isdigit()):
   print("Yes ")
 else:
   print("No ")   
