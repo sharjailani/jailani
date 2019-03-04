@@ -1,2 +1,10 @@
 n=input()
 print(n)
+
+
+
+
+
+
+
+
