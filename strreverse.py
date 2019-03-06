@@ -1,6 +1,7 @@
 string=input()
-rev=string[::-1]
+rev= "".join(reversed(string)) 
 print(rev)
+
 
 
 
