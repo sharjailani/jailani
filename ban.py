@@ -1,5 +1,14 @@
 string=input()
-print(string[0:3])
+print(string[0]+string[3])
+
+
+
+
+
+
+
+
+
 
 
 
