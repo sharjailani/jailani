@@ -1,5 +1,5 @@
 day=input()
-lit=['monday', 'tuesday' ,'wednesday','thursday','friday']
+lit=['Monday', 'Tuesday' ,'Wednesday','Thursday','Friday']
 if (day in lit):
   print('no')
 else:
