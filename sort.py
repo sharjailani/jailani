@@ -1,5 +1,6 @@
-l=list(input().split(" "))
-if(l==sorted(l)):
+num=int(input("Enter number"))
+arr=list(input().split(' '))
+if(arr==sorted(arr))
   print('yes')
 else: 
   print('no')
