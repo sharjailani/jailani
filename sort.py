@@ -1,4 +1,4 @@
-num=int(input("Enter number"))
+num=int(input())
 arr=list(input().split(' '))
 if(arr==sorted(arr))
   print('yes')
