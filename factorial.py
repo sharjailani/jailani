@@ -1,9 +1,9 @@
-d=int(input())
-n=1
-while d>0:
-	n=n*d
-	d=d-1
-print (n)
+dig=int(input())
+num=1
+while dig>0:
+	num=num*dig
+	dig=dig-1
+print (num)
 
 
 
